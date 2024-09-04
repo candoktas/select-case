@@ -28,5 +28,5 @@ The project uses the following main libraries:
 
 React: For building the component-based UI.
 Vite: For a fast and efficient development environment.
-React Query: For managing server-side data fetching and caching.
+React Query/TanStack Query: For managing server-side data fetching and caching.
 FontAwesome: For icon support in the select component.
